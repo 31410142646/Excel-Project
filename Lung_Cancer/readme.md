@@ -56,5 +56,7 @@ Multiple charts.
 Key Insights:
 1.Smoking significantly impacts survival rates.
 2.Stage III shows highest survival among stages.
-3.Treatment methods show varying effectiveness.
+3.Radiation treatment methods works more effectively.
 4.Passive smoking cases are notably high.
+5.Poland country have greatest survival rate while Belgium and Bulgaria have low chances of survival rate.
+6.Male patient have high chances of affected by lung cancer.
